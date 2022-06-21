@@ -1,0 +1,266 @@
+.header
+{
+    width: 100%;
+    height: 120px;
+    background-color: rgb(56, 56, 194);
+    margin-top: 10px;
+}
+.Online
+{
+    color: white;
+    margin-top: -65px;
+    margin-left: 500px;
+    background-color: rgb(18, 196, 220);
+    width: 130px;
+    
+}
+.email
+{
+color: aliceblue;
+margin-top: -15px;
+margin-left: 680px;
+}
+.call
+{
+    margin-top: -20px;
+    margin-left: 900px; 
+    width: 90px;
+    background-color: red;
+}
+.phone
+{
+    margin-top: -18px;
+    margin-left: 1050px;
+    color: white;
+} 
+.menu1 li
+{
+    list-style: none;
+    display: inline;
+    padding-right: 30px;
+    font-size: larger
+}
+.menu1 ul
+{
+    margin-top: 55px;
+    margin-left: 150px;
+}
+.subcontent1
+{
+    width: 320px;
+    height: 160px;
+    margin-top: -25px;
+    font-size:large ;
+    background-color: rgb(16, 189, 154);
+}
+.subcontent2
+{
+    width: 320px;
+    height: 160px;
+    margin-top: -184px;
+    font-size:larger ;
+    background-color: aquamarine;
+    margin-left: 322px;
+
+}
+.subcontent3
+{
+    width: 320px;
+    height: 160px;
+    font-size: larger;
+    background-color: blue;
+    margin-top: -187px;
+    margin-left: 650px;
+}
+.subcontent4
+{
+    width: 320px;
+    height: 160px;
+    font-size: larger;
+    background-color: aqua;
+    margin-left: 980px;
+    margin-top: -187px;
+} 
+.subcontent1:hover
+{
+    background-image: url(https://th.bing.com/th/id/OIP.1qczf-T9ihQSJj1ErVWnZgHaEc?w=287&h=180&c=7&r=0&o=5&dpr=1.5&pid=1.7);
+}
+.subcontent2:hover
+{
+    background-image:url(https://www.bing.com/th?id=OIP.whzIj_T63XXU3TgH_6iN0AHaE8&w=305&h=204&c=8&rs=1&qlt=90&o=6&dpr=1.5&pid=3.1&rm=2)
+}
+.subcontent3:hover
+{
+    background-image: url(https://th.bing.com/th/id/OIP.Gika-_ULEWgKE5H_JoAO1wHaFc?pid=ImgDet&w=178&h=130&c=7&dpr=1.5)
+}
+.subcontent4:hover
+{
+    background-image: url(https://th.bing.com/th/id/OIP.DijFP0lOsL23gvVn5QoT_AHaFQ?pid=ImgDet&w=178&h=126&c=7&dpr=1.5);
+}
+.content
+{
+    width: 100%;
+    height: 600px;
+}
+.hreoimg img
+{
+    width: 500px;
+    height: 400px;
+    margin-top: 65px;
+    margin-left: 30px;
+}
+.text
+{
+    margin-top: -380px;
+    margin-left: 640px;
+}
+.subheading
+{
+    font-weight: normal;
+}
+.text p
+{
+    line-height: 1.5;
+}
+.Read, .button2
+{
+    background-color: blue;
+    height: 35px;
+    width: 140px;
+    color: white;
+    font-weight: bold;
+    
+}
+.Read
+{
+    margin-top: 65px;
+    margin-left: 700px;
+    padding-top: 10px;
+}
+.button2
+{
+    margin-top: -45px;
+    margin-left: 900px; 
+    padding-top: 10px;
+}
+span 
+{
+    padding-top: -20px; 
+}
+.Enquiry
+{
+    width: 1000;
+    height: 650px;
+    background-color: blue;
+    color: white;
+    
+}
+.Enquirycontent
+{
+    width: 500px;
+    height:620px;
+    margin-left: 50px;
+
+}
+.Enquirycontent p
+{
+    line-height: 1.5;
+    margin-top: 40px;
+}
+.Enquirycontent h2
+{
+    margin-top: 40px;
+    padding-top: 40px;
+}
+.Enquirycontent ul
+{
+    line-height: 2;
+}
+
+.Enquiryform
+{
+    margin-left: 670px;
+    margin-top: -620px;
+    height: 520px;
+    width: 648px;
+    color: white;
+}
+.Enquiryform input
+{
+    width: 400px;
+    height: 30px;
+    margin-bottom: 20px;
+}
+.Enquiryform button
+{
+    background-color:  green; 
+    width: 100px;
+    height: 30px;  
+    border:none;
+    border-radius: 5px;
+    color: white;
+}
+.courses 
+{
+  width: 100%;
+  height: 320px;  
+  color:white;
+  background-color: rgb(88, 88, 221);
+}
+.courses h2
+{
+    padding-top: 30px;
+    margin-left: 50px;
+}
+.list1 ul
+{
+   list-style: disc;
+   padding-top: 10px;
+   
+}
+.list1 li,.list2 li,.list3 li,.list4 li
+{
+    padding-top: 20px;
+}
+.list2 ul
+{
+    margin-left: 250px;
+    margin-top: -200px;
+}
+.list3 ul
+{
+    margin-top: -210px;
+    margin-left: 500px;
+}
+.list4 ul
+{
+    margin-top: -210px;
+    margin-left: 800px;
+
+}
+.footer
+{
+    padding-left: 20px;
+    padding-top: 20px;
+    width: 100%;
+    height: 70px;
+    background-color: aqua;
+    font-weight: bolder;
+}
+.footer a 
+{
+    text-decoration: none;
+}
+.media ul
+{
+   list-style: none;
+   margin-left: 1100px;
+   margin-top: -70px;
+}
+.media li
+{
+    display: inline;
+    padding-left: 10px;
+}
+
+
